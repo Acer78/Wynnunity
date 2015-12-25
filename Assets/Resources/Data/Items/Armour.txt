@@ -1,0 +1,55 @@
+Lost Cap
+Helmet
+2
+1
+Data/Items/ItemIcons/Cap_01
+Data/Items/ItemIcons/InvIcons/CapIcon
+
+Ragged Shirt
+Chestplate
+4
+2
+Data/Items/ItemIcons/Shirt_01
+Data/Items/ItemIcons/InvIcons/ShirtIcon
+
+Cloth Pants
+Leggings
+3
+2
+Data/Items/ItemIcons/Pants_01
+Data/Items/ItemIcons/InvIcons/PantsIcon
+
+Old Shoes
+Boots
+2
+1
+Data/Items/ItemIcons/Boots_01
+Data/Items/ItemIcons/InvIcons/BootsIcon
+
+Headwarmer
+Helmet
+5
+5
+Data/Items/ItemIcons/Cap_01
+Data/Items/ItemIcons/InvIcons/CapIcon
+
+Furcoat
+Chestplate
+7
+7
+Data/Items/ItemIcons/Shirt_01
+Data/Items/ItemIcons/InvIcons/ShirtIcon
+
+Thermokeepers
+Leggings
+6
+6
+Data/Items/ItemIcons/Pants_01
+Data/Items/ItemIcons/InvIcons/PantsIcon
+
+Brogues
+Boots
+5
+4
+Data/Items/ItemIcons/Boots_01
+Data/Items/ItemIcons/InvIcons/BootsIcon

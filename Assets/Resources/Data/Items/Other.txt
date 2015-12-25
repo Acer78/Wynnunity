@@ -1,0 +1,14 @@
+Gemstone Shard
+64
+Data/Items/ItemIcons/Placeholder
+Data/Items/ItemIcons/InvIcons/PlaceholderIcon
+
+Gemstone Crystal
+64
+Data/Items/ItemIcons/Placeholder
+Data/Items/ItemIcons/InvIcons/PlaceholderIcon
+
+Gemstone Cluster
+64
+Data/Items/ItemIcons/Placeholder
+Data/Items/ItemIcons/InvIcons/PlaceholderIcon

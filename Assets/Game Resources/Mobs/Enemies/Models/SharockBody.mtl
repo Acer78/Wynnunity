@@ -1,0 +1,32 @@
+# Blender MTL File: 'Sharock.blend'
+# Material Count: 3
+
+newmtl Material.001
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.293791 0.293791 0.293791
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Joerg\\Desktop\\Unity\\Wynnunity\\Assets\\Game Resources\\Materials\\Items\\stone.jpg
+
+newmtl Material.002
+Ns 145.098039
+Ka 0.000000 0.000000 0.000000
+Kd 0.502393 0.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Joerg\\Desktop\\Unity\\Wynnunity\\Assets\\Game Resources\\Materials\\Items\\stone.jpg
+
+newmtl Material.004
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.008870 0.008870 0.008870
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Joerg\\Desktop\\Unity\\Wynnunity\\Assets\\Game Resources\\Materials\\Items\\stone.jpg

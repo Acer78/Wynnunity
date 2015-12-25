@@ -1,0 +1,44 @@
+Diet Water
+10 times less calories than normal water!
+1
+1
+Heal
+10,1,1,0
+Data/Items/ItemIcons/Placeholder
+Data/Items/ItemIcons/InvIcons/PlaceholderIcon
+
+Diet Water <color=maroon>MAX</color>
+Zero calories, maximum wateryness.
+1
+1
+Mana
+5,1,1.25,0
+Data/Items/ItemIcons/Placeholder
+Data/Items/ItemIcons/InvIcons/PlaceholderIcon
+
+Nuke-o-zade
+Gives you a burst of energy, just like a nuke... Whatever that is.
+1
+1
+Speed
+40,2.5,0,0
+Data/Items/ItemIcons/Placeholder
+Data/Items/ItemIcons/InvIcons/PlaceholderIcon
+
+Geniuss
+All your ideas seem great until you sober up.
+1
+1
+Drunkness
+100,3,3,0
+Data/Items/ItemIcons/Placeholder
+Data/Items/ItemIcons/InvIcons/PlaceholderIcon
+
+Asidd
+<color=grey>Asidico (and, by extension, Liquidico) is not responsible for any harm to persons or property due to the application of this product.<size=10> Asidico is owned by Liquidico, please report major issues to Liquidico.</size></color>
+1
+1
+Trip
+100,50,200,100,1.5,0.75
+Data/Items/ItemIcons/Placeholder
+Data/Items/ItemIcons/InvIcons/PlaceholderIcon
